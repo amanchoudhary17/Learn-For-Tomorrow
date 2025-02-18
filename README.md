@@ -1,6 +1,6 @@
 ﻿# Learn-for-Tomorrow
 
-Website Demo Video Link  - https://www.loom.com/share/72f6d776358f4cfda0cdcdf32e08e04d?sid=bbb4f30a-97c6-4217-b79d-c5335455ec67
+
  
 
 Learn-for-Tomorrow project is a clone of the IIIT Lucknow (IIITL) official website with added functionalities to improve student convenience. The goal is to provide a more interactive and student-friendly platform where students can access essential resources and updates directly.
